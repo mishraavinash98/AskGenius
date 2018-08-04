@@ -1,0 +1,2 @@
+# AskGenius
+"Ask Genius " is an educational website designed for engineering students to provide them all the study material for all the engineering branches which are affiliated to Mumbai University under one roof. If you believe the "work smart not hard" mantra, then this site is surely made for you. Instead of searching whole internet and to preserve your valuable time you can get here all the study material you require , maybe books , syllabus or question papers.
